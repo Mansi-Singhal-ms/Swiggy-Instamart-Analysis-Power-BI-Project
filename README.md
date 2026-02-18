@@ -1,10 +1,10 @@
 # Swiggy-Instamart-Analysis-Power-BI-Project
 
+<img width="873" height="487" alt="Screenshot 2026-02-18 222840" src="https://github.com/user-attachments/assets/eff02fc5-bede-4f2b-b629-d088e61db611" />
+
 ## 📌 Project Overview
 
 This project presents an end-to-end data analysis and visualization of Swiggy Instamart using Power BI. The dashboard provides insights into sales performance, product categories,  customer behavior and regional distribution to support data-driven decision-making.
-
-<img width="873" height="487" alt="Screenshot 2026-02-18 222840" src="https://github.com/user-attachments/assets/eff02fc5-bede-4f2b-b629-d088e61db611" />
 
 
 ## 🎯 Business Objectives
@@ -71,10 +71,15 @@ Target vs Actual Revenue Difference
 
 ## 🚀 Features
 ✅ Multi-page interactive Power BI dashboard (Executive Overview, Customer Analytics, Product Analysis, Geographic View)
+
 ✅ Month-over-Month (MoM) performance tracking using DAX time intelligence
+
 ✅ Target vs Actual comparison with 10% growth model
+
 ✅ Price Adjustment Scenario Analysis using What-If parameter
+
 ✅ Weekly, Monthly, and Quarterly trend analysis
+
 ✅ State-wise revenue distribution using geographic map visualization
 
 ## 📂 Project Structure
@@ -86,9 +91,11 @@ PowerBI-Swiggy-Instamart-Sales-Analysis/
 ├── 📄 DASHBOARD_DETAILS.md
 
 ├── 📁 dashboard/
+
    └── swiggy-instamart-analysis.pbix
 
 ├── 📁 documentation/
+
    └── DAX_Measures.pdf
 
 
