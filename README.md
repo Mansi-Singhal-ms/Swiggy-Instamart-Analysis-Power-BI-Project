@@ -47,18 +47,49 @@ Seasonal spikes observed in quarterly trend suggest promotional timing opportuni
 
 Revenue concentration across select states indicates regional growth potential.
 
+## 📊 Key KPIs Tracked
+
+Total Revenue
+
+Total Orders
+
+Total Profit
+
+Quantity Sold
+
+Average Order Value (AOV)
+
+Revenue per Customer
+
+Orders per Customer
+
+Previous Month Revenue
+
+Current Month Revenue
+
+Target vs Actual Revenue Difference
+
+## 🚀 Features
+✅ Multi-page interactive Power BI dashboard (Executive Overview, Customer Analytics, Product Analysis, Geographic View)
+✅ Month-over-Month (MoM) performance tracking using DAX time intelligence
+✅ Target vs Actual comparison with 10% growth model
+✅ Price Adjustment Scenario Analysis using What-If parameter
+✅ Weekly, Monthly, and Quarterly trend analysis
+✅ State-wise revenue distribution using geographic map visualization
+
 ## 📂 Project Structure
 
 PowerBI-Swiggy-Instamart-Sales-Analysis/
-│
+
 ├── 📄 README.md
+
 ├── 📄 DASHBOARD_DETAILS.md
-│
+
 ├── 📁 dashboard/
-│   └── swiggy-instamart-analysis.pbix
-│
+   └── swiggy-instamart-analysis.pbix
+
 ├── 📁 documentation/
-│   └── DAX_Measures.pdf
+   └── DAX_Measures.pdf
 
 
 
