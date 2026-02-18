@@ -1,6 +1,6 @@
 # Swiggy-Instamart-Analysis-Power-BI-Project
 
-<img width="873" height="487" alt="Screenshot 2026-02-18 222840" src="https://github.com/user-attachments/assets/eff02fc5-bede-4f2b-b629-d088e61db611" />
+<img width="877" height="491" alt="Screenshot 2026-02-13 214412" src="https://github.com/user-attachments/assets/d240dcb4-16ae-431a-9ab3-9d6b80ef9920" />
 
 ## 📌 Project Overview
 
